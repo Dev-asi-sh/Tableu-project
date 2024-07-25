@@ -49,6 +49,10 @@ The solution involves using Tableau to create a comprehensive sales dashboard th
 
 ## Visualizations
 
+![123](https://github.com/user-attachments/assets/60cb7ff1-46d1-4c8f-ab80-7c4beb677728)
+
+![relationship](https://github.com/user-attachments/assets/778d73bf-1b0d-4def-9f3d-051a40176227)
+
 ![1](https://github.com/user-attachments/assets/3633e39c-80a9-4fee-b53b-6dd81dfc69b3)
 
 ![2](https://github.com/user-attachments/assets/90e78e1d-40a1-40a1-949f-1b938f991776)
