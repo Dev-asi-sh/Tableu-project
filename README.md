@@ -48,11 +48,32 @@ The solution involves using Tableau to create a comprehensive sales dashboard th
 - **Description:** 
 
 ## Visualizations
-- [Describe the different visualizations created in the Tableau report]
-- ![Relationship Diagram](path/to/relationship-diagram.png) 
-- [Include screenshots or descriptions of key visualizations]
+
+![1](https://github.com/user-attachments/assets/3633e39c-80a9-4fee-b53b-6dd81dfc69b3)
+
+![2](https://github.com/user-attachments/assets/90e78e1d-40a1-40a1-949f-1b938f991776)
+
+![3](https://github.com/user-attachments/assets/cf9caf45-a9c9-4dcc-89ee-3efd225b0ea9)
+
+![4](https://github.com/user-attachments/assets/048c342b-5c36-41cd-80ec-385029050abc)
+
+![5](https://github.com/user-attachments/assets/5fdd5cfc-6ff1-4037-bd76-ba1adddc58c0)
+
+
+![6](https://github.com/user-attachments/assets/9f20c736-8b95-4ff3-b366-d8a3d96e0c67)
+
+![7](https://github.com/user-attachments/assets/d0e86857-0e25-4fd8-b68b-6cc73596f7de)
+
+![8](https://github.com/user-attachments/assets/dda25c15-10e1-42d1-9081-d293cdaea7c0)
+
+![9](https://github.com/user-attachments/assets/760719cd-5fa7-4ffe-8620-ecbb6a345211)
+
+![Screenshot (2)](https://github.com/user-attachments/assets/8ebcb0f8-3715-46e2-98ba-eec9cf37c749)
+
+![FF](https://github.com/user-attachments/assets/2f486760-aa3d-4d4a-b957-c2afdd004ccb)
 
 ## How to Use
+
 1. Clone the repository: `git clone https://github.com/yourusername/your-repo-name.git`
 2. Open the `.twbx` file in Tableau Desktop.
 3. Explore the visualizations and insights.
@@ -63,8 +84,5 @@ The solution involves using Tableau to create a comprehensive sales dashboard th
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For any questions or feedback, please contact me at [your-email@example.com].
+For any questions or feedback, please contact me at [debasishdebasish57@gmail.com].
