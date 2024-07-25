@@ -30,6 +30,13 @@ Trend Identification: Identify key trends and patterns in the sales data to help
 ### Solution
 The solution involves using Tableau to create a comprehensive sales dashboard that integrates data from various sources, transforms it into meaningful visualizations, and provides real-time insights. This will enable the management team to monitor sales performance, identify trends, analyze competition, and make data-driven decisions to address the challenges faced by the business.
 
+### Five Table of the Database
+- custember.sql
+- date.sql
+- markets.sql
+- products.sql
+- transactions.sql
+
 ## Features
 - Data import and transformation.
 - Interactive dashboards and reports.
