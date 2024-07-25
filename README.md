@@ -44,8 +44,8 @@ The solution involves using Tableau to create a comprehensive sales dashboard th
 - Insights and key findings derived from the data.
 
 ## Data Sources
-- **Source:** [Specify the source of your data, e.g., CSV files, databases, APIs]
-- **Description:** [Briefly describe the data used in the project]
+- **Source:**
+- **Description:** 
 
 ## Visualizations
 - [Describe the different visualizations created in the Tableau report]
